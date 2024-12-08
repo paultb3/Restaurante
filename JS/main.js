@@ -1,5 +1,5 @@
 function submit() {
-    alert("Thank you for your order!");
+    alert("Thank you order !");
 }
 
 addEventListener('click', submit)
